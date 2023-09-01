@@ -14,3 +14,6 @@ This project aims to demonstrate how to design software architecture via a metho
 * The representation of information based on user requirements and constraints
 
 Three phases have been defined for the project. The first phase involves the processing of use cases, quality attributes, constraints, and concerns through requirements analysis. Second phase includes the first iteration of the ADD process for a principal use case. The final phase contains all three iterations of the ADD process along with a simple prototype implementation that demonstrates the principal use case.
+
+## Demo
+Please find a demo video [here](https://github.com/ahmaad-ansari/Course-Management-System/tree/main/code#readme)https://github.com/ahmaad-ansari/Course-Management-System/tree/main/code#readme
