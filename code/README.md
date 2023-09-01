@@ -38,11 +38,9 @@
 The frontend will be running on port 3000 and the backend will be running on port 5000.
 
 **Note: 2 video demonstrations have been included below as a substitute for the document containing screen dumps of the application.**
+https://github.com/ahmaad-ansari/Course-Management-System/assets/88805493/43fa2417-ada3-4475-8163-f4ddaf41a05e
+https://github.com/ahmaad-ansari/Course-Management-System/assets/88805493/051c4583-0843-49dd-bc09-b000b535b5d6
 
-https://user-images.githubusercontent.com/88805493/205544134-dcb22534-7fc5-40d7-b618-afa953e4f274.mp4
-
-
-https://user-images.githubusercontent.com/88805493/205544142-2254e254-8440-4fff-be00-137ea0651cdb.mp4
 
 
 
