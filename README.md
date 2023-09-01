@@ -15,5 +15,10 @@ This project aims to demonstrate how to design software architecture via a metho
 
 Three phases have been defined for the project. The first phase involves the processing of use cases, quality attributes, constraints, and concerns through requirements analysis. Second phase includes the first iteration of the ADD process for a principal use case. The final phase contains all three iterations of the ADD process along with a simple prototype implementation that demonstrates the principal use case.
 
-## Demo
-Please find a demo video [here](https://github.com/ahmaad-ansari/Course-Management-System/tree/main/code#readme)https://github.com/ahmaad-ansari/Course-Management-System/tree/main/code#readme
+## Demo Videos
+Explore the functionality of the Course Management System through these demo videos:
+
+1. [Demo Video 1](https://github.com/ahmaad-ansari/Course-Management-System/assets/88805493/43fa2417-ada3-4475-8163-f4ddaf41a05e): This video showcases a **user** account in action.
+2. [Demo Video 2](https://github.com/ahmaad-ansari/Course-Management-System/assets/88805493/051c4583-0843-49dd-bc09-b000b535b5d6): This video showcases as **admin** account in action.
+
+Feel free to watch these videos to get a better understanding of our application's capabilities.
