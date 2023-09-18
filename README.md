@@ -1,4 +1,4 @@
-# SOFE3650F19-Project
+# Course Management System
 
 
 <p align="center">
