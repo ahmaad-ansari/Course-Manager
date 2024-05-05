@@ -22,7 +22,8 @@ To set up and run this project on your local machine, follow the steps found [he
 ## Demo Videos
 Explore the functionality of the Course Management System through these demo videos:
 
-1. [Demo Video 1](https://github.com/ahmaad-ansari/Course-Management-System/assets/88805493/43fa2417-ada3-4475-8163-f4ddaf41a05e): This video showcases a **user** account in action.
-2. [Demo Video 2](https://github.com/ahmaad-ansari/Course-Management-System/assets/88805493/051c4583-0843-49dd-bc09-b000b535b5d6): This video showcases as **admin** account in action.
+https://github.com/ahmaad-ansari/Course-Manager/assets/88805493/9b6f8104-e18d-47a8-968b-831ba09fd767
+
+https://github.com/ahmaad-ansari/Course-Manager/assets/88805493/9b683f09-4dbd-4f65-8e9b-4be095197df6
 
 Feel free to watch these videos to get a better understanding of our application's capabilities.
